@@ -8,5 +8,5 @@ This is a project that allows users to create songs and lyrics.
 
 ## Screenshots
 * Song List
-![](/ScreenShot1.png)
+![Song List](/ScreenShot1.png)
 * Lyrics Creator
